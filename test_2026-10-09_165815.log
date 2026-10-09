@@ -1,0 +1,17 @@
+[16:58:15] == 查看目录 ==
+total 72
+drwxr-xr-x  11 hj1993  staff   352 10  9 16:58 .
+drwxr-x---+ 82 hj1993  staff  2624 10  9 15:25 ..
+-rwxr-xr-x   1 hj1993  staff   277 10  9 15:58 check_log.sh
+-rwxr-xr-x   1 hj1993  staff   120 10  9 15:44 check.sh
+-rwxr-xr-x   1 hj1993  staff   323 10  9 16:07 countlines.sh
+-rwxr-xr-x   1 hj1993  staff   172 10  9 15:39 hello.sh
+-rwxr-xr-x   1 hj1993  staff   429 10  9 16:27 run_test.sh
+-rw-r--r--   1 hj1993  staff   110 10  9 15:39 run.log
+-rwxr-xr-x   1 hj1993  staff   557 10  9 16:57 run.sh
+-rw-r--r--   1 hj1993  staff   122 10  9 16:28 test_2026-10-09_162849.log
+-rw-r--r--   1 hj1993  staff    30 10  9 16:58 test_2026-10-09_165815.log
+[16:58:15] == 当前路径 ==
+/Users/hj1993/test-practice
+[16:58:15] == 当前时间 ==
+2026年10月 9日 星期五 16时58分15秒 CST
